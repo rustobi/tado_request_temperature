@@ -5,8 +5,8 @@ This Python script generates a CSV file containing all relevant zone temperature
 ### Required Libraries
 Ensure you have the following Python libraries installed:
 
-- pytado: A library for interacting with the Tado API. You can find it here: [PyTado](https://github.com/chrism0dwk/PyTado)
-- pandas: For data processing and CSV file creation.
+- pytado: A library for interacting with the Tado API. You can find it here: [PyTado](https://github.com/chrism0dwk/PyTado) | ```pip install python-tado```
+- pandas: For data processing and CSV file creation. | ```pip install pandas```
 - datetime: For handling dates and times.
 - pathlib and os: For file management.
 - requests: To make HTTP requests, particularly to the weather API.
